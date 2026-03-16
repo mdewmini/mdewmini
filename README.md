@@ -32,9 +32,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cs,react,nodejs,express,vite,dotnet,mysql,mongodb,firebase,git,github,vscode,figma,postman,androidstudio&theme=dark&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cs,php,react,nodejs,express,vite,dotnet,mysql,mongodb,firebase,git,github,vscode,visualstudio,figma,postman,androidstudio&theme=dark&perline=12"/>
   </a>
 </p>
+
 
 ---
 
