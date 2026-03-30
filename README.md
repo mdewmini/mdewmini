@@ -27,8 +27,20 @@
 </p>
 
 ---
+## 👩‍💻 About Me
 
+javascript
+const maheesha = {
+  role: "Graduate Software Engineer & Full Stack Developer",
+  education: "BSc (Hons) Software Engineering - 2:1 | University of Plymouth",
+  location: "Sri Lanka 🇱🇰",
+  email: "mdewmini99@gmail.com",
+  skills: ["React.js", "Node.js", "Express.js", "MongoDB"],
+  interests: ["Web Development", "UI/UX Design", "Agile Practices"],
+  currentlyLooking: "Software Engineer Internship / Software Developer Role",
+};
 
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
