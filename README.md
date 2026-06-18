@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=mdewmini&label=Profile%20views&color=6C63FF&style=flat" alt="mdewmini" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/mdewmini.svg)](https://user-badge.committers.top/sri_lanka/mdewmini)
+
 
 ---
 
